@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a Full Stack Developer with **4+ years** of experience building scalable web applications — from REST APIs to real-time systems. I started with PHP/Laravel and have been deepening my Node.js ecosystem skills (NestJS, Express, Next.js, React).
+I'm a Full Stack Developer with **5+ years** of experience building scalable web applications — from REST APIs to real-time systems. I started with PHP/Laravel and have been deepening my Node.js ecosystem skills (NestJS, Express, Next.js, React).
 
 I focus on clean architecture, maintainable codebases, and shipping products that actually work in production.
 
