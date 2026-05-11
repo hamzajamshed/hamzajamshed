@@ -18,7 +18,7 @@ I focus on clean architecture, maintainable codebases, and shipping products tha
 - 🔭 Currently working with: **NestJS · React · Next.js · MySQL · Socket.io**
 - 🌱 Leveling up in: **System design · TypeScript patterns · CI/CD**
 - 💬 Ask me about: REST API design, backend architecture, or Laravel → Node migrations
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: **hamzajamshed251@gmail.com**
 
 ---
 
